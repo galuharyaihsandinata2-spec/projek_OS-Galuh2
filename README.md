@@ -234,7 +234,7 @@ Fungsi Umum Perintah di Atas:
      - Membuat file kosong readme.md di direktori utama proyek.
      - Membuat file kosong main.sh di dalam folder src.
 
-5. *Menampilkan Struktur Direktori Menggunakan tree*
+5. Menampilkan Struktur Direktori Menggunakan tree
    - Perintah:
     ```
      tree
@@ -250,7 +250,7 @@ Fungsi Umum Perintah di Atas:
       ```
    - Fungsi: Menampilkan struktur visual folder dan file di dalam direktori kerja saat ini.
  
-6. *Melihat Ukuran Folder (du -h --max-depth=1)*
+6. Melihat Ukuran Folder (du -h --max-depth=1)
    - Perintah:
       ```
      du -h --max-depth=1
@@ -267,7 +267,7 @@ Fungsi Umum Perintah di Atas:
      - Setiap subfolder berukuran sekitar 4KB.
      - Total keseluruhan folder (.) berukuran 16KB.
 
-7. *Melihat Ukuran Total Folder (du -sh)*
+7. Melihat Ukuran Total Folder (du -sh)
    - Perintah:
       ```
      du -sh
